@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Job Portal",
     desc: "A fast and lightweight product landing page created using HTML, CSS and JavaScript.",
-    stack: ["HTML", "CSS", "JavaScript"],
+    stack: ["HTML", "CSS", "JavaScript","React.js",,"Node.js","MongoDB","JWT"],
     preview: "https://job-portal-frontend-ten-ashy.vercel.app/",
     github: "https://github.com/Ak-Anuj",
   },
