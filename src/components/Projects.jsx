@@ -1,8 +1,8 @@
 const projects = [
   {
     title: "Job Portal",
-    desc: "A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
-      Implements secure JWT authentication, role-based access control, and structured job posting workflows.",
+    desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
+      Implements secure JWT authentication, role-based access control, and structured job posting workflows.`,
     stack: ["HTML", "CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT"],
     preview: "https://job-portal-frontend-ten-ashy.vercel.app/",
     github: "https://github.com/Ak-Anuj",
@@ -16,9 +16,9 @@ const projects = [
   },
   {
     title: "Product Manager",
-    desc: "A secure Product Management application powered by JWT authentication and robust session handling.
-            Provides users full control to create, manage, and publish product listings independently.",
-    stack: [["HTML", "Tailwind CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT", "Google OAuth"],
+    desc: `A secure Product Management application powered by JWT authentication and robust session handling.
+            Provides users full control to create, manage, and publish product listings independently.`,
+    stack: ["HTML", "Tailwind CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT", "Google OAuth"],
     preview: "https://product-manager-frontend-inky.vercel.app/login",
     github: "https://github.com/Ak-Anuj",
   },
