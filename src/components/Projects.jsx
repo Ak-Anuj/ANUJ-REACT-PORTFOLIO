@@ -18,7 +18,7 @@ const projects = [
     title: "Product Manager",
     desc: "A secure Product Management application powered by JWT authentication and robust session handling.
             Provides users full control to create, manage, and publish product listings independently.",
-    stack: [["HTML", "Tailwind CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT", Google OAuth],
+    stack: [["HTML", "Tailwind CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT", "Google OAuth"],
     preview: "https://product-manager-frontend-inky.vercel.app/login",
     github: "https://github.com/Ak-Anuj",
   },
