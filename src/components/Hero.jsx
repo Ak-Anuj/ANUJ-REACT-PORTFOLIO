@@ -38,7 +38,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/AnujKumarResume.pdf"
+              href="/Anuj Resume.pdf"
               download
               className="w-full sm:w-auto px-6 py-3 rounded-xl bg-[#6049ea] 
               hover:bg-white hover:text-black transition duration-300 text-center"
