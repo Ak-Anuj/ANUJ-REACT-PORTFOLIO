@@ -1,17 +1,17 @@
 const projects = [
   {
+    title: "AI Exam Notes Generator",
+    desc: `Developed a full-stack AI-powered SaaS application that generates exam-oriented notes, diagrams, charts, and revision summaries in one click`,
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Gemini AI", "Stripe", "Redux Toolkit", "Tailwind CSS", "REST APIs"],
+    preview: "https://examnotes-generator-client.onrender.com",
+    github: "https://github.com/Ak-Anuj/ExamNotes_Generator",
+  }
+  {
     title: "Job Portal",
     desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
       Implements secure JWT authentication, role-based access control, and structured job posting workflows.`,
     stack: ["HTML", "CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT"],
-    preview: "https://job-portal-frontend-ten-ashy.vercel.app/",
-    github: "https://github.com/Ak-Anuj",
-  },
-  {
-    title: "Portfolio Website",
-    desc: "A modern personal portfolio built using React and Tailwind CSS with a clean UI and responsive layout.",
-    stack: ["React", "Tailwind", "JavaScript"],
-    preview: "https://anuj-react-portfolio.vercel.app/",
+    preview: "https://job-portal-t692.vercel.app",
     github: "https://github.com/Ak-Anuj",
   },
   {
@@ -19,16 +19,16 @@ const projects = [
     desc: `A secure Product Management application powered by JWT authentication and robust session handling.
             Provides users full control to create, manage, and publish product listings independently.`,
     stack: ["HTML", "Tailwind CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT", "Google OAuth"],
-    preview: "https://product-manager-frontend-inky.vercel.app/login",
-    github: "https://github.com/Ak-Anuj",
+    preview: "https://product-manager-green-six.vercel.app/login",
+    github: "https://github.com/Ak-Anuj/PRODUCT-MANAGER",
   },
   {
-    title: "Weather App",
-    desc: "A weather forecast app fetching real-time API data and displaying it in a clean UI.",
-    stack: ["JavaScript", "API", "CSS"],
-    preview: "#",
-    github: "https://github.com/Ak-Anuj",
-  },
+    title: "Portfolio Website",
+    desc: "A modern personal portfolio built using React and Tailwind CSS with a clean UI and responsive layout.",
+    stack: ["React", "Tailwind", "JavaScript"],
+    preview: "https://anuj-react-portfolio.vercel.app/",
+    github: "https://github.com/Ak-Anuj/ANUJ-REACT-PORTFOLIO",
+  },    
 ];
 
 export default function Projects() {
