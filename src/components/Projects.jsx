@@ -5,7 +5,7 @@ const projects = [
     stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Gemini AI", "Stripe", "Redux Toolkit", "Tailwind CSS", "REST APIs"],
     preview: "https://examnotes-generator-client.onrender.com",
     github: "https://github.com/Ak-Anuj/ExamNotes_Generator",
-  }
+  },
   {
     title: "Job Portal",
     desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
