@@ -45,7 +45,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://github.com/YOUR_GITHUB_USERNAME"
+                href="https://github.com/Ak-Anuj"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full border border-white/20 text-white/70 
