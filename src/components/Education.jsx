@@ -43,6 +43,39 @@ export default function Education() {
                 "JavaScript",
                 "React.js",
                 "Express.js",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React.js",
+                "Next.js",
+                "Redux",
+                "Zustand",
+                "Tailwind CSS",
+                "Bootstrap",
+            
+               // Backend
+               "Node.js",
+               "Express.js",
+               "REST API",
+               
+
+               // Database (MERN + more)
+               "MongoDB",
+               "Firebase",
+               "MySQL",
+
+               // Authentication & Security
+               "JWT",
+               "OAuth",
+               "bcrypt",
+
+               // Dev Tools & Utilities
+              "Git",
+              "GitHub",
+              "Postman",
+
+
+            
               ].map((s) => (
                 <span
                   key={s}
