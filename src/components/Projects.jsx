@@ -11,7 +11,7 @@ const projects = [
     title: "Job Portal",
     desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
       Implements secure JWT authentication, role-based access control, and structured job posting workflows.`,
-    stack: ["HTML", "CSS", "JavaScript","React.js", "Axios", "Node.js","Express.js","MongoDB","bcrypt","JWT"],
+    stack: ["HTML", "CSS", "JavaScript","React.js", "Axios", "Node.js","Express.js","MongoDB","Rest API",bcrypt","JWT"],
     preview: "https://job-portal-t692.vercel.app",
     github: "https://github.com/Ak-Anuj",
   },
@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Portfolio Website",
     desc: "A modern personal portfolio built using React and Tailwind CSS with a clean UI and responsive layout.",
-    stack: ["React", "Tailwind", "JavaScript"],
+    stack: ["HTML", "Tailwind CSS", "JavaScript","React"],
     preview: "https://anuj-react-portfolio.vercel.app/",
     github: "https://github.com/Ak-Anuj/ANUJ-REACT-PORTFOLIO",
   },    
