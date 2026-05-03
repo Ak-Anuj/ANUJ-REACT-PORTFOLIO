@@ -2,7 +2,8 @@ const projects = [
   {
     title: "AI Exam Notes Generator",
     desc: `Developed a full-stack AI-powered SaaS application that generates exam-oriented notes, diagrams, charts, and revision summaries in one click`,
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Gemini AI", "Stripe", "Redux Toolkit", "Tailwind CSS", "REST APIs"],
+    stack: [ "HTML", "Tailwind CSS", "JavaScript","React.js","Axios",
+  "React Router",  "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Gemini AI", "Stripe", "Google OAuth","REST APIs"],
     preview: "https://examnotes-generator-client.onrender.com",
     github: "https://github.com/Ak-Anuj/ExamNotes_Generator",
   },
@@ -10,7 +11,7 @@ const projects = [
     title: "Job Portal",
     desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
       Implements secure JWT authentication, role-based access control, and structured job posting workflows.`,
-    stack: ["HTML", "CSS", "JavaScript","React.js","Node.js","Express.js","MongoDB","JWT"],
+    stack: ["HTML", "CSS", "JavaScript","React.js", "Axios", "Node.js","Express.js","MongoDB","bcrypt","JWT"],
     preview: "https://job-portal-t692.vercel.app",
     github: "https://github.com/Ak-Anuj",
   },
