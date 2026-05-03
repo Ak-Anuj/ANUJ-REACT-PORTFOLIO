@@ -49,7 +49,6 @@ export default function Education() {
                 "React.js",
                 "Next.js",
                 "Redux",
-                "Zustand",
                 "Tailwind CSS",
                 "Bootstrap",
             
