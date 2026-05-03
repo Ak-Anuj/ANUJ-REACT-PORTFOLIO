@@ -85,7 +85,7 @@ export default function Footer() {
 
               <div className="flex items-center justify-center sm:justify-start gap-2 text-white/60">
                 <FaMapMarkerAlt size={14} />
-                Jaipur, Rajasthan, India
+                Haryana, India
               </div>
             </div>
           </div>
