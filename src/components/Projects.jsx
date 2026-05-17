@@ -24,6 +24,13 @@ const projects = [
     github: "https://github.com/Ak-Anuj/PRODUCT-MANAGER",
   },
   {
+  title: "Tic-Tac-Toe Game",
+  desc: "A responsive Tic-Tac-Toe web application built using HTML, CSS, and JavaScript featuring interactive gameplay, winner detection, and restart functionality.",
+  stack: ["HTML", "CSS", "JavaScript"],
+  preview: "https://tic-tac-toe-nine-zeta-72.vercel.app",
+  github: "https://github.com/Ak-Anuj/TicTacToe",
+},
+  {
     title: "Portfolio Website",
     desc: "A modern personal portfolio built using React and Tailwind CSS with a clean UI and responsive layout.",
     stack: ["HTML", "Tailwind CSS", "JavaScript","React"],
