@@ -12,7 +12,7 @@ const projects = [
     desc: `A responsive Job Portal platform enabling users to search, apply, and manage job listings efficiently.
       Implements secure JWT authentication, role-based access control, and structured job posting workflows.`,
     stack: ["HTML", "CSS", "JavaScript","React.js", "Axios", "Node.js","Express.js","MongoDB","Rest API","bcrypt","JWT"],
-    preview: "https://job-portal-t692.vercel.app",
+    preview: "https://job-portal-frontend-ten-ashy.vercel.app",
     github: "https://github.com/Ak-Anuj",
   },
   {
